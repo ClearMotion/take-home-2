@@ -19,7 +19,7 @@ Each row contains data collected at the corresponding time stamp. The sampling f
 
 ### Requirements
 
-* Train a neural network that takes road velocity `(m/s)`  as input and generate verticle acceleration `(m/s^2)` as output.
+* Train a neural network that takes road velocity `(m/s)`  as input and generates vertical acceleration `(m/s^2)` as output.
 * Feel free to choose any machine learning packages you are familiar with (e.g., TensorFlow, Keras, PyTorch, MATLAB DL Toolbox, CNTK, etc.)
 * Please use one of the four programming languages: MATLAB, Python, Javascript, C/C++.
 * Create a new branch for your work. Please provide code, figures, and summaries of your work.
