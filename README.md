@@ -3,7 +3,7 @@
 With recorded vertical acceleration of different cars on a given road,  we can accurately cancel it using feedforward control. 
 For that purpose, we can map the road data in terms of road velocity and store the data in the server.
 However, instead of actually driving different cars on the same road and record their verticle accelerations, 
-it is more efficient to train a neural network model for each car to predict the acceleration. In this assignment, 
+it is more efficient to train a neural network model for each car to predict the acceleration， whenever some new road data is available through crowd-sourcing. In this assignment, 
 you are asked to train such a model with given data.
 
 ### Sample Data
