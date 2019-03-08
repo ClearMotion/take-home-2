@@ -27,7 +27,7 @@ Each row contains data collected at the corresponding time stamp. The sampling f
 
 ### Hints
 
-* It is possible to normalize vecolity and acceleraiton using speed. For example, if you set a nominal speed to 20m/s. 
+* It is possible to normalize velocity and acceleraiton using speed. For example, if you set a nominal speed to 20m/s. 
 Then, velocity can be linearly normalized and acceleration can be quadratically normalized.
 * Very low speed data may not be useful since the vehicle dynamics are different than mid or high speed. 
 Also,  large yaw rate indicates narrow turning, we are less interested in that data.
